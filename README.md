@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jekabs || Jake_The_Human</h1>
+<h1 align="center">Greetings, I'm Jekabs || Jake_The_Human</h1>
 <h3 align="center">A passionate frontend (and sometimes full-stack) developer & UI/UX designer based out of Riga, Latvia</h3>
 
 
