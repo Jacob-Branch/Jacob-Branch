@@ -21,3 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacob-branch&show_icons=true&locale=en" alt="jacob-branch" /></p>
 
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/Jake_The_Human)
+
