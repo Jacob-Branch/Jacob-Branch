@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on multibple different scale projects
 - 🧐 I’m currently learning Node & Next js
-- ☺️ I’m looking to help with anything that improves the human experiance
+- ☺️ I’m looking to help with anything that improves the human experience
 - 💬 Ask me about all things design and SCSS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Dark mode is actually better for our eyeas in more then 70% of use cases :D
